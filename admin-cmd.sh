@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## 批量管理命令 v1.0 ##
+
 list="/root/shell/host.list"
 
 if [ $# -lt 1 ]
