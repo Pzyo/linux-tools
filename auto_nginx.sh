@@ -43,7 +43,6 @@ echo "###### configure ... ..."
             --with-http_sub_module \
             --with-http_v2_module \
             --with-http_ssl_module \
-            --with-http_memcached_module \
             --with-ipv6 \
             --with-pcre \
             --with-http_gzip_static_module \
